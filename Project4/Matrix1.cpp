@@ -3,8 +3,6 @@
 #include <iomanip> 
 #include <bitset>
 
-//  ŒÕ—“–” ÷»» ﬂ«€ ¿ C/C++
-
 int main()
 {
 	setlocale(LC_ALL, "Russian");
@@ -103,6 +101,13 @@ int main()
 		}
 	}
 
+	for (stolbik = 0; stolbik < 3; stolbik++)
+	{
+		for ()
+		{
+
+		}
+	}
 
 
 
